@@ -1,5 +1,5 @@
 # Direction
-## Write a program to get the century from a year.
+## Write a program to determine the century of a given year. 
 Example:
 - Input year: 2020
 - Output: 21
